@@ -1,0 +1,8 @@
+{
+  "Machine Learning Engineer": "Esperto in Python, machine learning, deployment di modelli, orchestrazione, LangChain, FastAPI, logging, testing, modularità. Esperienza in agenti, RAG, architetture scalabili e ottimizzazione backend.",
+  "Data Scientist": "Competenze in analisi statistica, modellazione predittiva, Python, SQL, visualizzazione dati, ML supervisionato e non supervisionato. Esperienza in progetti scientifici e sperimentali.",
+  "Backend Developer": "Esperto in sviluppo API REST, FastAPI, orchestrazione, logging, gestione errori, modularità del codice, testing e scalabilità. Conoscenza di architetture distribuite e deployment.",
+  "AI Researcher": "Conoscenza avanzata di modelli LLM, reti neurali, agenti intelligenti, LangChain, Hugging Face, orchestrazione multi-agent. Esperienza in ricerca scientifica e sperimentazione.",
+  "DevOps Engineer": "Esperto in CI/CD, containerizzazione, orchestrazione con Docker/Kubernetes, monitoraggio, sicurezza, deployment automatizzato e gestione ambienti cloud.",
+  "Project Manager": "Gestione team, pianificazione, budget, scadenze, comunicazione con stakeholder, metodologie Agile/Scrum. Esperienza in coordinamento e leadership."
+}
